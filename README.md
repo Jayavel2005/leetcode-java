@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jayavel2005/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Jayavel2005/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Jayavel2005/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
