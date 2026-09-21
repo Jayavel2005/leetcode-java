@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Jayavel2005/leetcode-java/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Jayavel2005/leetcode-java/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
