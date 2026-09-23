@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayavel2005/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jayavel2005/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Jayavel2005/leetcode-java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jayavel2005/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Jayavel2005/leetcode-java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jayavel2005/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Jayavel2005/leetcode-java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Jayavel2005/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Jayavel2005/leetcode-java/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
