@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayavel2005/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Jayavel2005/leetcode-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Jayavel2005/leetcode-java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Jayavel2005/leetcode-java/tree/master/0125-valid-palindrome) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayavel2005/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Jayavel2005/leetcode-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Jayavel2005/leetcode-java/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayavel2005/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayavel2005/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jayavel2005/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
