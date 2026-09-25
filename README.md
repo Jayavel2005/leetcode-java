@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jayavel2005/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Jayavel2005/leetcode-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Jayavel2005/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jayavel2005/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Jayavel2005/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jayavel2005/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Jayavel2005/leetcode-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Jayavel2005/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayavel2005/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0189-rotate-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Jayavel2005/leetcode-java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jayavel2005/leetcode-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
