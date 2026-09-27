@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jayavel2005/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jayavel2005/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jayavel2005/leetcode-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Jayavel2005/leetcode-java/tree/master/1768-merge-strings-alternately) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jayavel2005/leetcode-java/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayavel2005/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jayavel2005/leetcode-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jayavel2005/leetcode-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
