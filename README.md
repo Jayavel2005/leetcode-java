@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayavel2005/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayavel2005/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Jayavel2005/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Jayavel2005/leetcode-java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jayavel2005/leetcode-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2460-apply-operations-to-an-array](https://github.com/Jayavel2005/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayavel2005/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayavel2005/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Jayavel2005/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jayavel2005/leetcode-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jayavel2005/leetcode-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Floyd's Cycle Finding Algorithm
