@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jayavel2005/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Jayavel2005/leetcode-java/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Jayavel2005/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayavel2005/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Jayavel2005/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jayavel2005/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jayavel2005/leetcode-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Jayavel2005/leetcode-java/tree/master/1768-merge-strings-alternately) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayavel2005/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Jayavel2005/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
+| [0567-permutation-in-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jayavel2005/leetcode-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jayavel2005/leetcode-java/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayavel2005/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayavel2005/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Jayavel2005/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Jayavel2005/leetcode-java/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jayavel2005/leetcode-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
