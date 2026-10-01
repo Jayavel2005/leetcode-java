@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayavel2005/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Jayavel2005/leetcode-java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Jayavel2005/leetcode-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jayavel2005/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Jayavel2005/leetcode-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Jayavel2005/leetcode-java/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayavel2005/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Jayavel2005/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Jayavel2005/leetcode-java/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jayavel2005/leetcode-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jayavel2005/leetcode-java/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
