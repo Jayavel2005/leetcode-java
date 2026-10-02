@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jayavel2005/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Jayavel2005/leetcode-java/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Jayavel2005/leetcode-java/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Jayavel2005/leetcode-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayavel2005/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jayavel2005/leetcode-java/tree/master/0054-spiral-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/Jayavel2005/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 ## Monotonic Stack
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayavel2005/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Jayavel2005/leetcode-java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
