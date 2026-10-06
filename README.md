@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jayavel2005/leetcode-java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayavel2005/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jayavel2005/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jayavel2005/leetcode-java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/Jayavel2005/leetcode-java/tree/master/1052-grumpy-bookstore-owner) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Jayavel2005/leetcode-java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jayavel2005/leetcode-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jayavel2005/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Jayavel2005/leetcode-java/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0567-permutation-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jayavel2005/leetcode-java/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jayavel2005/leetcode-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jayavel2005/leetcode-java/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jayavel2005/leetcode-java/tree/master/0992-subarrays-with-k-different-integers) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jayavel2005/leetcode-java/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Jayavel2005/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Jayavel2005/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Jayavel2005/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jayavel2005/leetcode-java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/Jayavel2005/leetcode-java/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jayavel2005/leetcode-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jayavel2005/leetcode-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
